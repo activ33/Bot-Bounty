@@ -1,4 +1,4 @@
 # Change to your bot token of @BotFather
-TOKEN = 'XXXXXXXXX:XXXXXXXXXXXXX-XXXXXXXXXXXXXX'
+TOKEN = '6344846447:AAG9Yitc7Nmri61MmL5pnAWKzIOLi81AiPY'
 # Change to the id number(s) of the user(s) who is/are authorized to use the bot (@userinfobot)
-authorizedUsers = [12345678, 987654321]
+authorizedUsers = [689061386]
