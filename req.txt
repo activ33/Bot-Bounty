@@ -3,3 +3,18 @@ aiohttp==3.8.2
 Flask==2.2.2
 gunicorn==20.1.0
 pyrogram
+cloudscraper
+cssselect>=1.1
+lxml~=4.6
+packaging>=20.3
+Pillow~=8.1
+progressbar2>=3.50
+pycryptodome>=3.9
+PyExecJS>=1.5
+requests>=2.23
+better_exceptions>=0.2
+pysocks>=1.7
+toml>=0.10
+# aiocfscrape  # cf
+selenium
+pyvirtualdisplay
