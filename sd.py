@@ -7,6 +7,6 @@ app = Client("My First Project",api_id=24541704,api_hash="7b1b63a5c5a2e53233a0e7
 
 async def main():
     await app.start()
-    await app.send_message(689061386, "Hello! Bro Whatsup")
+    await app.send_message("-1932040511", "Hello! Bro Whatsup")
     await app.stop()
 app.run(main())
